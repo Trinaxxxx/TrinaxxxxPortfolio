@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 3D Environment Artist with experience across games, film, VR, and archviz. My work blends artistic world-building with an interest in technical problem-solving, from procedural workflows to optimisation and reusable systems. I enjoy learning by building and sharing that process here.
+I’m a 3D Environment Artist/TA with experience across games, film, VR, and archviz. My work blends artistic world-building with an interest in technical problem-solving, from procedural workflows to optimisation and reusable systems. I enjoy learning by building and sharing that process here.
 
 
 ## 🌐 Socials:
